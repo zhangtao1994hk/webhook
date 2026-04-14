@@ -42,7 +42,7 @@ export default {
             },
             {
               tag: "note",
-              elements: [{ tag: "plain_text", content: "来自 Prometheus 监控系统" }]
+              elements: [{ tag: "plain_text", content: "webhook 报警机器人🤖" }]
             }
           ]
         }
